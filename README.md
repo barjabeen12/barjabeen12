@@ -7,7 +7,7 @@
 - 🔭 &nbsp; I’m currently Working as a Full Stack Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science.
-- 💼 &nbsp; Full Stack Developer @Geekinate.
+- 💼 &nbsp; Full Stack Developer @OneStream Live.
 - 🌱 &nbsp; Enthusiast in AWS.
 - ✍️ &nbsp; Watching TV Shows and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
